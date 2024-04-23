@@ -11,4 +11,5 @@ warp://0A8F9Zh6-30X6LYR5-G43L7l1Z@auto
 warp://41ELZ6i7-J9a5ho01-6z8tY90l@auto
 warp://kuG172O5-FQ2k1c56-a46Hwv08@auto
 warp://4OvFX716-B120c3GV-06ebt5G8@auto
-
+warp://162.159.192.2:1010?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://188.114.97.176:880?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp
+warp://188.114.97.42:2371?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://162.159.192.26:8854?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp
