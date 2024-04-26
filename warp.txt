@@ -6,5 +6,6 @@ warp://162.159.192.153:4198/?ifp=5-10
 warp://162.159.195.101:5279/?ifp=5-10
 warp://auto/?ifp=5-10
 warp://auto
-warp://auto:0/?ifp=5-10#WarpTVC_IR&&detour=warp://auto:0/?ifp=5-10#WarpTVC_DE
-warp://auto:0/?ifp=10-20#WarpTVC_IR&&detour=warp://auto:0/?ifp=10-20#WarpTVC_DE
+Warp_in_Warp&&detour=warp://auto#Warp_ir
+warp://auto#WarpIR&&detour=warp://auto?ifp=10-20&ifps=40-100&ifpd=10-200#Warp_DE
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20 #warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50 #warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500 warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
