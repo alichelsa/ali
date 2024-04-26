@@ -6,4 +6,3 @@ warp://162.159.192.153:4198/?ifp=5-10
 warp://162.159.195.101:5279/?ifp=5-10
 warp://auto/?ifp=5-10
 warp://auto
-warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
