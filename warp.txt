@@ -6,3 +6,5 @@ warp://162.159.192.153:4198/?ifp=5-10
 warp://162.159.195.101:5279/?ifp=5-10
 warp://auto/?ifp=5-10
 warp://auto
+warp://auto:0/?ifp=5-10#WarpTVC_IR&&detour=warp://auto:0/?ifp=5-10#WarpTVC_DE
+warp://auto:0/?ifp=10-20#WarpTVC_IR&&detour=warp://auto:0/?ifp=10-20#WarpTVC_DE
