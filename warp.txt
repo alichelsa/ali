@@ -6,3 +6,5 @@ warp://188.114.99.233:894/?ifp=5-10
 warp://auto/REvil-MTU1280?ifp=5-10#IR1🇮🇷&&detour=warp://auto/REvil-MTU1120#DE1🇩🇪
 warp://auto/REvil-MTU1280?ifp=5-10#IR2🇮🇷&&detour=warp://auto/REvil-MTU1120#DE2🇩🇪
 warp://auto
+warp://zula.ir:2408/?ifp=5-10
+warp://zula.ir?ifp=10-20&ifps=20-60&ifpd=5-10#Warp 🇮🇷&&detour=warp://zula.ir?ifp=10-20&ifps=20-60&ifpd=5-10
