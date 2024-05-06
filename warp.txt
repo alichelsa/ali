@@ -14,3 +14,4 @@ warp://188.114.99.110:8886/?ifp=5-10
 
 warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
 warp://auto
+warp://auto/?ifp=5-10#🇮🇷Vpn_Shield-IR&&detour=warp://auto/?ifp=5-10#🇩🇪PORI-DE1&&detour=warp://auto/?ifp=5-10#🇩🇪PORI-DE2
